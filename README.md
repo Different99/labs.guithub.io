@@ -7,5 +7,5 @@
 # Лабораторная работа 2
 ![Модель IDEF0](https://github.com/Different99/labs.guithub.io/blob/master/model2.png)
 ![PDC](https://github.com/Different99/labs.guithub.io/blob/master/model22.png)
-![DFD Chek](https://github.com/Different99/labs.guithub.io/blob/master/mode23.png)
+![DFD Chek](https://github.com/Different99/labs.guithub.io/blob/master/model23.png)
 
